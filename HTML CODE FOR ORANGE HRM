@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="BASIC.CSS">
+    </head>
+    <body>
+        <div class="login card">
+            <h1>ORANGE HRM SYSTEMS</h1>
+            <h2>Login</h2>
+            <h3>Enter your credentials</h3>
+            <form class="login-form">
+                <input type="text" placeholder="Username" required>
+                <input type="Password"
+                placeholder="Password"required>
+                <a href="#">
+                    Forgot your password?
+                </a>
+                <button>Login</button>
+            </form>
+        </div>
+    </body>
+   <form action=""></form>
+</html>
